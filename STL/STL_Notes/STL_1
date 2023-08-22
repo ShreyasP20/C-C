@@ -1,0 +1,16 @@
+STL stands for Standard Template Library
+STL-contains container; Iterators; Algorithms; Functors.
+
+Containers-Sequential Ordered and Unordered 
+Sequential = vectors Stack Queue
+Ordered = Maps , Multimap, Set , Multiset
+Unordered= Unordered Map Undordered Set
+
+Nested Containers-Hard But EAZY TO APPLY 
+
+Iterators- Point to memory address of Containers<BASCIALLY POINTERS FOR STL>
+
+Algorithms-Complex Algorithms are implemented already SO JUST USE THEM!!!!
+
+Functors-Classes Which can act as Functions
+
